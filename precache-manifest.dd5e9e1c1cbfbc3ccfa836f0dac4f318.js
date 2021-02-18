@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a094e54ee95135120274ebbb423ddb81",
+    "revision": "e21bfdb44e34ac4b60bd762e2d9ac961",
     "url": "/cuiswap/index.html"
   },
   {
